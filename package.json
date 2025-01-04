@@ -1,5 +1,4 @@
 {
-
   "scripts": {
     "start": "vite"
   },
@@ -10,5 +9,11 @@
   },
   "dependencies": {
     "vite": "^6.0.6"
-  }
+  },
+  "name": "tailwind-course",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
